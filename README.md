@@ -23,3 +23,6 @@ A pull request involves submitting code contributions to a project, allowing you
 [About pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 
 [Pull Requests in VS Code (Youtube)](https://www.youtube.com/watch?v=LdSwWxVzUpo&t=161s)
+
+## Neda Notes:
+
